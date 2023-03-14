@@ -23,6 +23,10 @@ body {
   padding-bottom: 3rem;
 }
 
+.nopadding {
+    padding: 10px!important;
+}
+
 .teaser {
   font-family: 'Google Sans', sans-serif;
 }
@@ -124,8 +128,8 @@ body {
   border-radius: 10px;
   padding: 0;
   font-size: 0;
-  height: 320px;
-  width: 320px;
+  /*height: 220px;*/
+  /*width: 320px;*/
 /*  display: flex;
   background-color: rgba(0, 0, 0, 1);
   flex-basis: fit-content;
@@ -134,8 +138,8 @@ body {
 
 .results-carousel video {
   margin: 0 auto;
-  height: 320px;
-  width: 320px;
+  /*height: 200px;*/
+  /*width: 320px;*/
 }
 
 
